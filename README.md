@@ -1,2 +1,2 @@
 # tpch-mysql-lab
-homework of sysu database class
+homework of sysu database class.
